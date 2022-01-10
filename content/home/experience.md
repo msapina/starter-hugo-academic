@@ -30,14 +30,24 @@ experience:
     date_start: '2016-02-01'
     date_end: ''
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral researcher
+    company: Medical faculty Osijek
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Croatia
+    date_start: '2019-01-01'
+    date_end: ''
+    
+    title: Postdoctoral researcher
+    company: Faculty of dental medicine and health Osijek
+    company_url: ''
+    company_logo: org-x
+    location: Croatia
+    date_start: '2019-01-01'
+    date_end: ''
+    
+
+
 
 design:
   columns: '2'
