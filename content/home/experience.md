@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Pediatrics residency
+    company: University hospital center Osijek
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Croatia
+    date_start: '2016-02-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,14 +36,23 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral researcher
+    company: Medical faculty Osijek
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Croatia
+    date_start: '2018-01-01'
+    date_end: ''
+    description: Department of pediatrics
+
+- title: Postdoctoral researcher
+    company: Faculty of dental medicine and health Osijek
+    company_url: ''
+    company_logo: org-x
+    location: Croatia
+    date_start: '2018-01-01'
+    date_end: ''
+    description: Department of biostatistics and informatics
 
 design:
   columns: '2'
