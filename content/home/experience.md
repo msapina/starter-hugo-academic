@@ -38,7 +38,7 @@ experience:
     date_start: '2019-01-01'
     date_end: ''
     
-    title: Postdoctoral researcher
+  - title: Postdoctoral researcher
     company: Faculty of dental medicine and health Osijek
     company_url: ''
     company_logo: org-x
