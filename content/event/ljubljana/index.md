@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: International Medis Awards for Medical Research - Winner announcement
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: International Medis Awards for Medical Research
+event_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
 
 location: Ljubljana, Slovenija
 address:
