@@ -44,7 +44,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://anchor.fm/radio-djakovo/episodes/akovanin-dr--sc--Matej-apina-o-Medicinskom-Oskaru--cijepljenju-djece--znanosti----Izravno--13-12-2021-e1bliu5/a-a73ahdv"
+url_audio: "https://anchor.fm/radio-djakovo/episodes/akovanin-dr--sc--Matej-apina-o-Medicinskom-Oskaru--cijepljenju-djece--znanosti----Izravno--13-12-2021-e1bliu5/a-a73ahdv"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
