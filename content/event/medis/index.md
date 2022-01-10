@@ -34,7 +34,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Medis**]'
   focal_point: Right
 
 links:
@@ -45,7 +45,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=bmKltqBaGVk"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
