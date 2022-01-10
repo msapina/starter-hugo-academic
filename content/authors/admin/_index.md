@@ -1,77 +1,55 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Matej Šapina
+role: MD, PhD
+avatar_filename: avatar.jpg
+bio: A personal blog for science education, clinical biostatistics, clinical
+  epidemiology and clinical research posts.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - "biostatistics"
+  - "clinical epidemiology"
+  - "clinical reasoning"
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/m_sapx
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=NRexaeMAAAAJ&hl=en&oi=ao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/matej-%C5%A1apina-90272896/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Matej-Sapina
+organizations:
+  - name: Medical faculty Osijek
+    url: http://www.mefos.unios.hr/index.php/hr/
+  - name: Faculty of Dental Medicine and Health
+    url: http://www.fdmz.hr/index.php/hr/
+  - name: University hospital Osijek
+    url: https://www.kbco.hr/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: PhD in Biomedical sciences
+      institution: Medical faculty Osijek
+      year: 2019
+    - course: MD
+      institution: Medical faculty Osijek
+      year: 2014
+      
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+email: sapina.matej@yahoo.com
+superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr.sc. Matej Šapina, dr.med.je liječnik i znanstvenik s posebnim entuzijazmom za edukaciju onoga što ne znamo - statistiku i metodologiju klinčkih istraživanja. Područje djelovanja mu je pedijatrija, a znanstveni interesi široki. Sudjeluje u nastavi iz pedijatrije, predaje medicinsku statistiku i metodologiju istraživanja. Primarni fokus znanstvenog djelovanja mu je analiza bioloških signala, razvoj autonomnog živčanog sustava, klinička biostatistika i klinička epidemiologija. Širi interesi su mu simulacijske studije, bioinformatika, genske analize, programiranje, machine learning. Pristrani je Bayesianist. Ima averziju prema anketnim istraživanjima. Zabavlja ga pisanje o statistici i metodologiji istraživanja. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I zbog toga je nastala ova stranica - zamišljena kao svojevrsni blog, nadopuna knjigama u nastanku iz područja kliničke biostatike i metodologije znanstvenog istraživanja u biomedicini. Motivacija je objavljivanje materijala za studente, a otvoreni pristup omogućuje svima koje nešto više zanima da se informiraju i educiraju. 
+
+Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih istraživanja i biostatistici. Zalomi se i pokoje djelo o filozofiji znanosti. For reasons. Na domaćem jeziku, jer toga nedostaje.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
