@@ -29,12 +29,7 @@ experience:
     location: Croatia
     date_start: '2016-02-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Department of pediatrics
         
   - title: Postdoctoral researcher
     company: Medical faculty Osijek
