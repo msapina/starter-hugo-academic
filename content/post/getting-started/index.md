@@ -37,15 +37,33 @@ categories:
 - Demo
 ---
 
-## Overview
-
-Prošlo je više od deset godina otkako sam prvi put u rukama držao jednu od onih knjiga koje su me se dojmile da ih uvijek kada pripremam predavanja ponovno uzmem u ruke. Na moju sreću, osoba koja mi je, u ono vrijeme, pružila mogućnost sudjelovanja u znanstvenom radu je posebna kategorija pametnog čovjeka. Međutim, sam sam sebi postavio pitanje - zašto znanost radimo na ovaj način kakav radimo? Ok, jasno mi je da postoje različiti metodološki pristupi, ali ono što me zanimalo je postoji li nešto zajedničko tim metodama? Nekakva filozofska osnova? Kako znamo da je ono što radimo ispravno? Kako možemo svoje zaključke generalizirati? Možemo li uopće? Je li naš princip ispravan? I tako, ni ne znajući počeo sam otkrivati neke od temeljnih problema *filozofije znanosti*. Od dedukcije, dedukcije, induktivno-deduktivnog zaključivanja, testiranja hipoteza, pa sve do kontroverznog *anything goes*.
- Nekoliko je *mind blowing* knjiga bilo, kao što su *Popperova* **Logika znanstvenog otkrića**, *Kuhnova* **Struktura znanstvenih revolucija** i *Feyerabendova* **Protiv metode**. 
- Ovaj blogpost je namijenjen Popperovom hipotetsko-deduktivnom zaključivanju i zašto radimo to što radimo. 
+## Od Poppera do testiranja hipoteza
 
 
-Znanstveno istraživanje ima znanstveni cilj i u ostvarenju tog cilja služi se znanstvenom metodom. Operacionalno definiran cilj znanstvenih istraživanja je provjera hipoteza koje proizlaze iz hipotetičke teorije. Tu treba istaknuti da se hipotetičkom teorijom pokušava objasniti kako se odvijaju pojave i koji su uzroci pojava, a to znači da takva teorija pretpostavlja zakone po kojima pojave nastaju, o njihovom međuodnosu i kako se odvijaju u prirodi. Znanstveni cilj ima univerzalnu vrijednost jer se odnosi na zakone koji općenito vrijede (4).
- Najčešće primijenjene metode znanstvenog istraživanja jesu: induktivna i deduktivna metoda, metoda analize i sinteze, metoda apstrakcije i konkretizacije, metoda generalizacije i specijalizacije, metoda dokazivanja i opovrgavanja, metoda klasifikacije, metoda deskripcije, metoda kompilacije, komparativna metoda, statistička metoda, matematička metoda, metoda modeliranja, eksperimentalna metoda, genetička metoda. Metoda anketiranja i intervjuiranja, metoda opažanja, metoda brojanja, metoda mjerenja, Delfi metoda(5). 
+Prošlo je više od deset godina otkako sam prvi put u rukama držao jednu od onih knjiga koje su me se dojmile da ih uvijek kada pripremam predavanja ponovno uzmem u ruke. Nekoliko je *mind blowing* knjiga bilo, kao što su *Popperova* **Logika znanstvenog otkrića**, *Kuhnova* **Struktura znanstvenih revolucija** i *Feyerabendova* **Protiv metode**. 
+
+Možda sam pristran, ali nekada imam dojam da se mnogo čemu pristupa na način see one, do one, teach one.  Međutim, što više znamo, počnemo promišljati na duboljoj razini. I tako sam u ono vrijeme sam sam sebi postavio pitanje - zašto znanost radimo na ovaj način kakav radimo? Ok, jasno mi je da postoje različiti metodološki pristupi, ali ono što me zanimalo je postoji li nešto zajedničko tim metodama? Nekakva filozofska osnova? Kako znamo da je ono što radimo ispravno? Kako možemo svoje zaključke generalizirati? Možemo li uopće? Je li naš princip ispravan? I tako, ni ne znajući počeo sam otkrivati neke od temeljnih problema *filozofije znanosti*. Od dedukcije, dedukcije, induktivno-deduktivnog zaključivanja, testiranja hipoteza, pa sve do kontroverznog *anything goes*.
+
+Ovaj blogpost je namijenjen Popperovom hipotetsko-deduktivnom zaključivanju i zašto radimo to što radimo.
+
+
+ 
+
+## Falsifikabilnost
+
+U svakodnevnom govoru često se čuje riječ teorija. U pozadini takve *teorije* se prikazuju kao nešto znanstveno, kada su zapravo ništa drugo nego nagađanja. Zapravo se postavlja pitanje kako razlikovati *znanost* od *pseudoznanosti*. Taj problem razgraničenja se naziva **problemom demarkacije**.
+
+Ono po čemu je Popper poznat je po svom rigoroznom pristupu i po onome što zovemo **falsifikalbilnost**. Smatrao je da je temeljno obilježje znanstvene teorije da ona može biti falsifikabilna. Falsifikabilno ne znači reći da je netočna ili lažna. 
+
+Ako hipotezu nije moguće izravno 
+
+
+
+
+
+
+
+Znanstveno istraživanje ima znanstveni cilj i u ostvarenju tog cilja služi se znanstvenom metodom. Operacionalno definiran cilj znanstvenih istraživanja je provjera hipoteza koje proizlaze iz hipotetičke teorije. Tu treba istaknuti da se hipotetičkom teorijom pokušava objasniti kako se odvijaju pojave i koji su uzroci pojava, a to znači da takva teorija pretpostavlja zakone po kojima pojave nastaju, o njihovom međuodnosu i kako se odvijaju u prirodi. Znanstveni cilj ima univerzalnu vrijednost jer se odnosi na zakone koji općenito vrijede (4). Najčešće primijenjene metode znanstvenog istraživanja jesu: induktivna i deduktivna metoda, metoda analize i sinteze, metoda apstrakcije i konkretizacije, metoda generalizacije i specijalizacije, metoda dokazivanja i opovrgavanja, metoda klasifikacije, metoda deskripcije, metoda kompilacije, komparativna metoda, statistička metoda, matematička metoda, metoda modeliranja, eksperimentalna metoda, genetička metoda. Metoda anketiranja i intervjuiranja, metoda opažanja, metoda brojanja, metoda mjerenja, Delfi metoda(5). 
 
 
 Induktivna metoda znanstvenog istraživanja je sustavna primjena induktivnog načina zaključivanja kojim se na temelju analize pojedinačnih činjenica dolazi do zaključka o općem sudu. Iz specifičnih pojedinačnih slučajeva zaključujemo prema općem. Istraživačko razmišljanje. Postoji više vrsta indukcija, kao: potpuna indukcija, nepotpuna indukcija i predikativna indukcija. Kod potpune indukcije zaključak je na potpunom nabrajanju svih pojedinačnih slučajeva. U praksi se rijetko primjenjuje, a rezultat znači samo sistematiziranje znanja. Kod ove indukcije zaključak je potpuno istinit. Nepotpuna indukcija stvara zaključke na temelju analize ograničenog broja pojedinačnih pojava koji su primjenjivi na ostale pojave iste vrste. Češće se upotrebljava u znanstvenom istraživanju nego potpuna indukcija. Predikativna indukcija je proces mišljenja koje se odvija zaključivanje od jedne klase pojava na drugu klasu, pri čemu se zaključivanje temelji na sličnosti klasa pojava (5). 
