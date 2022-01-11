@@ -1,8 +1,8 @@
 ---
 title: O logici znanstvenog istraživanja
-subtitle: Od Poppera do testiranja hipoteza
+subtitle: Od Poppera do testiranja hipoteza - Why we do, what we do
 # Summary for listings and search engines
-summary: random text is random
+summary: 
 
 # Link this post with a project
 projects: []
@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Poccon & Ziva**]'
+  caption: 'Image credit: [**Pocco & Ziva**]'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -43,7 +43,7 @@ Prošlo je preko od deset godina otkako sam prvi put u rukama držao jednu od on
 
 Možda sam pristran, ali nekada imam dojam da se mnogo čemu pristupa na način see one, do one, teach one.  Međutim, što više znamo, počnemo promišljati na duboljoj razini. I tako sam u ono vrijeme sam sam sebi postavio pitanje - zašto znanost radimo na ovaj način kakav radimo? Ok, jasno mi je da postoje različiti metodološki pristupi, ali ono što me zanimalo je postoji li nešto zajedničko tim metodama? Nekakva filozofska osnova? Kako znamo da je ono što radimo ispravno? Kako možemo svoje zaključke generalizirati? Možemo li uopće? Je li naš princip ispravan? I tako, ni ne znajući čovjek počne otkrivati neke od temeljnih problema *filozofije znanosti*. Od dedukcije, dedukcije, induktivno-deduktivnog zaključivanja, testiranja hipoteza, pa sve do kontroverznog *anything goes*.
 
-Ovaj blogpost je o Popperovom hipotetsko-deduktivnom zaključivanju i zašto radimo to što radimo. A nekoliko *mind blowing* knjiga koje vrijedi pogledati su  *Popperova* **Logika znanstvenog otkrića**, *Kuhnova* **Struktura znanstvenih revolucija** i *Feyerabendova* **Protiv metode**. 
+Ovaj blogpost je o Popperovom hipotetsko-deduktivnom zaključivanju i zašto radimo to što radimo. A nekoliko *mind blowing* knjiga koje vrijedi pogledati su  **Popperova** *Logika znanstvenog otkrića*, **Kuhnova** *Struktura znanstvenih revolucija* i **Feyerabendova** *Protiv metode*. 
 
 ## Falsifikabilnost
 
