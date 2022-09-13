@@ -34,7 +34,7 @@ item:
 - certificate_url: 
   #date_end: "2021-10-11"
   date_start: "2021-10-11" 
-  description: "International Medis awards for medical research"
+  description: ""
   organization: Medis
   organization_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
   title: International Medis awards for medical research - Winner
@@ -47,7 +47,46 @@ item:
   organization_url: 
   title: Nagrada Ernst Mayerhofer
   url: ""
-
+- certificate_url: 
+  #date_end: "2021-10-11"
+  date_start: "2021-10-11" 
+  description: ""
+  organization: Fakultet za dentalnu medicinu i zdravstvo
+  organization_url: 
+  title: Nagrada za najbolji znanstveni rad mladog znanstvenika
+  url: ""
+- certificate_url: 
+  #date_end: "2021-10-11"
+  date_start: "2021-10-11" 
+  description: 
+  organization: Medicinski fakultet Osijek
+  organization_url: 
+  title: Nagrada "Vatroslav Florschutz"
+  url: ""
+- certificate_url: 
+  #date_end: "2019-10-11"
+  date_start: "2021-10-11" 
+  description: ""
+  organization: Fakultet za dentalnu medicinu i zdravstvo
+  organization_url: 
+  title: Nagrada za najbolji znanstveni rad mladog znanstvenika
+  url: ""
+- certificate_url: 
+  #date_end: "2019-10-11"
+  date_start: "2021-10-11" 
+  description: ""
+  organization: Medicinski fakultet Osijek
+  organization_url: 
+  title: Nagrada "Vatroslav Florschutz"
+  url: ""
+- certificate_url: 
+  #date_end: "2021-10-11"
+  date_start: "2021-10-11" 
+  description: "Nagrada za istraživanje iz teme doktorske disertacije"
+  organization: Medicinski fakultet Osijek
+  organization_url: 
+  title: Dekanova nagrada
+  url: ""
 
 design:
   columns: '2' 
