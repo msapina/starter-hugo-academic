@@ -31,9 +31,6 @@ item:
   organization_url: https://www.ersnet.org/
   title: Paediatric bronchoscopy
   url: ""
-item :
-
-item:
 - certificate_url: https://www.ersnet.org/
   date_end: "2021-10-11"
   date_start: "2021-10-11" 
