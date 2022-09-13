@@ -1,5 +1,5 @@
 ---
-title: Nesuđeni epidemiolog rastura u pedijatriji  Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
+title: Nesuđeni epidemiolog rastura u pedijatriji ':'  Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
 
 
 event: Interview za tportal
