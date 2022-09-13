@@ -34,12 +34,12 @@ item:
 
 item:
 - certificate_url: https://www.ersnet.org/
-  date_end: "2021-09-22"
-  date_start: "2021-09-20" 
+  date_end: "2021-00-00"
+  date_start: "2021-00-00" 
   description: "International Medis awards for medical research"
   organization: Medis
   organization_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
-  title: IMA Winner
+  title: International Medis awards for medical research - Winner
   url: ""
 
 
