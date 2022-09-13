@@ -1,9 +1,10 @@
 ---
-title: Nesuđeni epidemiolog rastura u pedijatriji ":"  Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
+title: Dr. Šapina s kolegama spasio 14godišnjaka koji se gušio kikirikijem
 
 
-event: Interview za tportal
-event_url: https://www.tportal.hr/vijesti/clanak/nesudeni-epidemiolog-rastura-u-pedijatriji-mladi-dakovcanin-matej-sapina-ispricao-nam-je-kako-mu-je-zagonetna-bolest-bubrega-donijela-medicinskog-oscara-te-sto-to-djeci-radi-covid-foto-20211201
+
+event: Interview za portalzdravlje.hr
+event_url: https://portalzdravlje.hr/dr-sapina-s-kolegama-spasio-14godisnjaka-koji-se-gusio-kikirikijem/
 
 location: 
 address:
@@ -13,20 +14,22 @@ address:
   postcode: 
   country: 
 
-summary: Nesuđeni epidemiolog rastura u pedijatriji':' Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
+summary: 
 
-abstract: Na korak je do specijalističkog ispita iz pedijatrije i s već obranjenom titulom doktora znanosti. Mladi Đakovčanin Matej Šapina, liječnik u Klinici za pedijatriju osječkog Kliničkog bolničkog centra (KBC), ovogodišnji je dobitnik medicinskog Oscara. Jedan je od dvoje hrvatskih liječnika nagrađenih na međunarodnom natječaju za najbolja istraživačka postignuća u medicini i farmaciji International Medis Awards 2021. U razgovoru za tportal dr. sc. Šapina objašnjava za što mu je dodijeljen medicinski Oscar, ali govori i o aktualnom trenutku, djeci, koronavirusu i cjepivu
+abstract: Koliko udah orašastih plodova može biti opasan ako nema brze i pravilne medicinske intervencije pokazao je slučaj iz osječke bolnice gdje je dovezen 14-godišnjak koji je udahnuo kikiriki! Iako izvan radnoga vremena, dr.sc. Matej Šapina, dr. med. spec. pedijatar, zamjenik predstojnika Klinike za pedijatriju i voditelj pedijatrijskog covid stacionara u KBC-u Osijek, žurno je nakon telefonskog poziva kolega otišao u bolnicu i u svega desetak minuta spasio mladog Osječanina dodatnih komplikacija.
+
+
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-11-25T17:00:00Z"
-date_end: "2021-11-25T18:00:00Z"
+#date: "2021-11-25T17:00:00Z"
+#date_end: "2021-11-25T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-01T06:00:00Z"
+publishDate: "2022-08-16T06:00:00Z"
 
 authors: []
 tags: []
