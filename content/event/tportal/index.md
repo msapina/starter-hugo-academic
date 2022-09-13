@@ -1,5 +1,5 @@
 ---
-title: Nesuđeni epidemiolog rastura u pedijatriji:  Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
+title: Nesuđeni epidemiolog rastura u pedijatriji  Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
 
 
 event: Interview za tportal
@@ -13,7 +13,7 @@ address:
   postcode: 
   country: 
 
-summary: Nesuđeni epidemiolog rastura u pedijatriji: Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
+summary: Nesuđeni epidemiolog rastura u pedijatriji Mladi Đakovčanin Matej Šapina ispričao nam je kako mu je zagonetna bolest bubrega donijela medicinskog Oscara te što to djeci radi covid
 
 abstract: Na korak je do specijalističkog ispita iz pedijatrije i s već obranjenom titulom doktora znanosti. Mladi Đakovčanin Matej Šapina, liječnik u Klinici za pedijatriju osječkog Kliničkog bolničkog centra (KBC), ovogodišnji je dobitnik medicinskog Oscara. Jedan je od dvoje hrvatskih liječnika nagrađenih na međunarodnom natječaju za najbolja istraživačka postignuća u medicini i farmaciji International Medis Awards 2021. U razgovoru za tportal dr. sc. Šapina objašnjava za što mu je dodijeljen medicinski Oscar, ali govori i o aktualnom trenutku, djeci, koronavirusu i cjepivu
 
