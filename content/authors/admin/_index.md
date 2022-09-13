@@ -1,6 +1,6 @@
 ---
 title: Matej Šapina
-role: MD, PhD
+role: Pediatrician, MD, PhD
 avatar_filename: avatar.jpg
 bio: A personal blog for science education, clinical biostatistics, clinical
   epidemiology and clinical research posts.
