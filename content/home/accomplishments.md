@@ -32,17 +32,6 @@ item:
   title: Paediatric bronchoscopy
   url: ""
 
-
-item:
--   date_end: "2021-09-22"
-  date_start: "2021-09-20" 
-  description: "International Medis awards for medical research"
-  organization: Medis
-  organization_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
-  title: IMA Winner
-  url: ""
-
-
 design:
   columns: '2' 
 ---
