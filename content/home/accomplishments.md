@@ -41,10 +41,10 @@ item:
   url: ""
 - certificate_url: 
   #date_end: "2021-10-11"
-  #date_start: "2021-10-11" 
+  date_start: "2021-10-11" 
   description: ""
   organization: Hrvatsko pedijatrijsko društvo
-  organization_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
+  organization_url: 
   title: Nagrada Ernst Mayerhofer
   url: ""
 
