@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.ersnet.org/
-  date_end: "2021-09-22"
+  #date_end: "2021-09-22"
   date_start: "2021-09-20" 
   description: ""
   organization: European Respiratory Society
