@@ -25,7 +25,7 @@ experience:
   - title: Pediatrician
     company: University hospital centre Osijek
     company_url: ''
-    company_logo: org-gc
+    #company_logo: org-gc
     location: Croatia
     date_start: '2022-06-01'
     date_end: ''
@@ -33,7 +33,7 @@ experience:
   - title: Pediatric resident
     company: University hospital centre Osijek
     company_url: ''
-    company_logo: org-gc
+    #company_logo: org-gc
     location: Croatia
     date_start: '2016-02-01'
     date_end: '2022-06-01'
@@ -41,7 +41,7 @@ experience:
   - title: Postdoctoral researcher
     company: Medical faculty Osijek
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: Croatia
     date_start: '2019-01-01'
     date_end: ''
@@ -49,7 +49,7 @@ experience:
   - title: Postdoctoral researcher
     company: Faculty of dental medicine and health Osijek
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: Croatia
     date_start: '2019-01-01'
     date_end: ''
