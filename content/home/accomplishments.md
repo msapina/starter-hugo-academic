@@ -31,13 +31,21 @@ item:
   organization_url: https://www.ersnet.org/
   title: Paediatric bronchoscopy
   url: ""
-- certificate_url: https://www.ersnet.org/
-  date_end: "2021-10-11"
+- certificate_url: 
+  #date_end: "2021-10-11"
   date_start: "2021-10-11" 
   description: "International Medis awards for medical research"
   organization: Medis
   organization_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
   title: International Medis awards for medical research - Winner
+  url: ""
+- certificate_url: 
+  #date_end: "2021-10-11"
+  #date_start: "2021-10-11" 
+  description: ""
+  organization: Hrvatsko pedijatrijsko društvo
+  organization_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
+  title: Nagrada Ernst Mayerhofer
   url: ""
 
 
